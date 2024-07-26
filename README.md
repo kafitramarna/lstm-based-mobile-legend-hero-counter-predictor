@@ -13,5 +13,5 @@ This project is focused on predicting win rates and pick rates of Mobile Legends
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/lstm-based-mobile-legend-hero-counter-predictor.git
+git clone https://github.com/kafitramarna/lstm-based-mobile-legend-hero-counter-predictor.git
 cd lstm-based-mobile-legend-hero-counter-predictor
